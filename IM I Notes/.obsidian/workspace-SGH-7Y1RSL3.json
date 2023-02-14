@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "bbf6c63ca184aeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0f8914620b6f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919dd2a66934df2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation about the origin.md"
+              }
+            }
+          },
+          {
+            "id": "b43aa66e423b5b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 7 - Congruence/Lesson 3 - Identifying Congruence using Transformations/Lesson 3 -Identifying Congruence using Transformations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b1aa5f149441dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca44c5946cd951a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebe804c8ce464c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6cb2f508c207803",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acce79221a140824",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5
+  },
+  "right": {
+    "id": "8c7eebcf2cf10a9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "708efcaba44b395a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56b20c68716cb71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit 7 - Congruence/Lesson 3 - Identifying Congruence using Transformations/Lesson 3 -Identifying Congruence using Transformations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "229a3b8fc0dc1b58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unit 7 - Congruence/Lesson 3 - Identifying Congruence using Transformations/Lesson 3 -Identifying Congruence using Transformations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de5bbfd74f790f44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf085f2d0a0127bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit 7 - Congruence/Lesson 3 - Identifying Congruence using Transformations/Lesson 3 -Identifying Congruence using Transformations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "b43aa66e423b5b53",
+  "lastOpenFiles": [
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation about the origin 1.md",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation about the origin.md",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Lesson 2 - Calculating Transformations.md",
+    "Standards.md",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Translation Calculation.md",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation about the origin.svg",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation about any other point.md",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation about any other point.svg",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation 1 1 1 1.md",
+    "Unit 7 - Congruence/Lesson 2 - Calculating Transformations/Transformations - Rotation 1 1 1.md"
+  ]
+}

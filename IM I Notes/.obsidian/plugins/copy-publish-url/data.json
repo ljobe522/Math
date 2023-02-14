@@ -1,0 +1,9 @@
+{
+  "homeNote": "https://github.com/ljobe522/Math/index.html",
+  "publishPath": "https://github.com/ljobe522/Math/notes/",
+  "enableContext": true,
+  "enableOpenUrl": true,
+  "enableGithub": true,
+  "remoteUrl": "https://github.com/ljobe522/Math/",
+  "branch": "master"
+}
